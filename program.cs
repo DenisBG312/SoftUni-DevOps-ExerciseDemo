@@ -1,2 +1,3 @@
 string name = "Denis the Developer";
-Console.WriteLine($"Hello, {name}!");
+string letsTryRebase = "Let's try rebasing!";
+Console.WriteLine($"Hello, {name} and he says -> {letsTryRebase}!");
